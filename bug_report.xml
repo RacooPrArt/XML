@@ -1,1 +1,8 @@
-
+<bug_report>
+  <title>error 404 when i try to open website's main page</title>
+  <step>open link https://www.bugwebsite.example</step>
+  <severity>blocker</severity>
+  <priority>high</priority>
+  <actual_resul>error 404</actual_resul>
+  <expected_result>open main page</expected_result>
+</bug_report>
